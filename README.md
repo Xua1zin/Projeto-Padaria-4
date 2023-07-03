@@ -5,5 +5,6 @@ Quarto projeto mensal da faculdade de Engenharia de Software.
 
 O último mês foi focado inteiramente em Pilha, Fila, Lista Encadeada e Lista Encadeada Simples.
 
+
 Aqui estão os requisitos:
 [Sistema da Berenice Pt 4.docx.pdf](https://github.com/Xua1zin/Projeto-Padaria-4/files/11933769/Sistema.da.Berenice.Pt.4.docx.pdf)
